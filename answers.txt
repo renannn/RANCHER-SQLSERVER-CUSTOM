@@ -1,0 +1,7 @@
+mssql_pid=Developer
+mssql_password=Pr\@ch\@\#SeTaLouc0\#\#
+mssql_port=15789
+VOLUME_DRIVER=local
+BACKUP_DRIVER=local
+DATA_DRIVER=local
+LOG_DRIVER=local
